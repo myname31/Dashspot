@@ -36,3 +36,25 @@ aside,.game{background:linear-gradient(145deg,#172d56ed,#0c1732f2);border:1px so
 @keyframes confetti-fall{0%{opacity:0;transform:translate3d(0,0,0) rotate(0)}10%{opacity:1}100%{opacity:0;transform:translate3d(25px,105vh,0) rotate(540deg)}}
 @media(max-width:740px){.tier{clip-path:none;border-radius:3px}.layout{gap:14px}.game{box-shadow:0 8px 0 #050a19,0 18px 40px #0008}.hero{padding-top:36px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}}
+
+/* DASHSPOT animated vinyl player */
+.audio{position:relative;overflow:hidden;min-height:300px;padding-top:18px;background:radial-gradient(ellipse at 50% 40%,#102e4a 0%,#081326 55%,#070d1b 100%);}
+.vinyl-stage{height:172px;width:100%;display:grid;place-items:center;position:relative;margin:0 auto 8px;isolation:isolate;}
+.vinyl-disc{width:142px;height:142px;border-radius:50%;position:relative;display:grid;place-items:center;background:repeating-radial-gradient(circle,#090d18 0 3px,#202b40 4px 5px,#0b1020 6px 8px);border:1px solid #5eeaff88;box-shadow:0 0 0 7px #35e8ff0b,0 0 28px #35e8ff25,inset 0 0 22px #000;transition:filter .3s,transform .3s;}
+.vinyl-disc:before{content:"";position:absolute;inset:12px;border-radius:50%;border:1px solid #8af5ff30;}
+.vinyl-disc:after{content:"";position:absolute;inset:25px;border-radius:50%;border:1px dashed #8af5ff35;}
+.vinyl-grooves{position:absolute;inset:37px;border-radius:50%;border:1px solid #ffffff25;box-shadow:0 0 0 5px #ffffff05,0 0 0 10px #ffffff04,0 0 0 15px #ffffff04;}
+.vinyl-label{z-index:1;width:54px;height:54px;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;background:linear-gradient(145deg,#c5ff54,#5ccfbb 55%,#38a8e8);color:#061522;box-shadow:0 0 18px #42e8ff66;}
+.gd-mark{font:900 18px var(--font);line-height:16px;transform:rotate(45deg)}.vinyl-label small{font:800 7px/1.05 var(--font);letter-spacing:1px;text-align:center}
+.vinyl-orbit{position:absolute;width:170px;height:170px;border:1px solid #42e8ff20;border-radius:50%;transform:rotate(-25deg) scaleY(.38);}
+.orbit-two{width:205px;height:205px;border-color:#b9ff4230;transform:rotate(35deg) scaleY(.3)}
+.vinyl-spark{position:absolute;width:5px;height:5px;border-radius:50%;background:var(--cyan);box-shadow:0 0 12px 3px #42e8ff;top:24px;left:calc(50% + 74px);animation:sparkFloat 2.2s ease-in-out infinite alternate;}
+.spark-two{top:auto;left:calc(50% - 83px);bottom:25px;background:var(--lime);box-shadow:0 0 12px 3px #b9ff42;animation-delay:-1s}
+.vinyl-stage.spinning .vinyl-disc{animation:vinylSpin 3.8s linear infinite;filter:brightness(1.2);box-shadow:0 0 0 7px #35e8ff12,0 0 38px #35e8ff55,inset 0 0 22px #000;}
+.vinyl-stage.spinning .vinyl-orbit{animation:orbitSpin 5s linear infinite}.vinyl-stage.spinning .orbit-two{animation-direction:reverse;animation-duration:7s}
+.vinyl-stage.spinning .vinyl-spark{animation-duration:.8s}
+@keyframes vinylSpin{to{transform:rotate(360deg)}}@keyframes orbitSpin{to{rotate:360deg}}@keyframes sparkFloat{to{transform:translate(7px,-9px);opacity:.35}}
+.controls{margin:14px 0 10px}.controls .play{min-width:132px;height:38px}
+#skip[hidden]{display:none!important}.foot{justify-content:flex-start}.foot span{margin-left:auto}
+.audio:after{content:"DASHSPOT / AUDIO ENGINE";position:absolute;right:12px;top:12px;color:#6e8eae55;font:700 7px var(--font);letter-spacing:1.5px;pointer-events:none}
+@media(max-width:740px){.audio{min-height:292px}.vinyl-stage{height:160px}.vinyl-disc{width:132px;height:132px}.vinyl-orbit{width:158px;height:158px}.orbit-two{width:190px;height:190px}}
