@@ -1,3 +1,5 @@
 {
-  "_instructions": "Add entries keyed by Pointercrate demon id. Example: 12345 -> {audioUrl: https://your-public-host/audio/level.mp3, imageUrl: https://your-public-host/images/level.webp}"
-}\n
+  "149992717": {
+    "audioUrl": "https://cdn.ornzora.eu.cc/354573f4-5180-46fb-aed9-9d2c4d703106-upload-1795787720223.mp3"
+  }
+}
