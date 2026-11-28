@@ -5,7 +5,8 @@ Geometry Dash-inspired guessing game: identify the Extreme Demon level from its 
 ## Included
 - Pointercrate Top 150 sync via its documented public API
 - Five rank tiers: Easy #1–30, Medium #31–60, Hard #61–90, Expert #91–120, Insane #121–150
-- Progressive audio hints: 1, 3, 5, 8, 12, 15 seconds
+- Heardle-style rounds: 6 attempts, clip unlocks 1, 3, 5, 8, 12, 15 sec; points 300/250/200/150/100/50
+- Search dropdown with every level name (keyboard ↑ ↓ Enter, mouse, touch); unknown names never cost an attempt
 - Manual public audio/image URLs in `data/manifest.json`
 - Score, streak, search suggestions, answer popup
 - Responsive static site; no framework/build step
@@ -25,6 +26,7 @@ The script calls `https://pointercrate.com/api/v2/demons/listed/` using Pointerc
 For the workflow to commit changes, enable **Settings → Actions → General → Workflow permissions → Read and write permissions**.
 
 ## Add manual media
+`data/manifest.template.json` lists all 150 levels (with `_name`/`_rank` helper fields). Copy the entries you fill in into `data/manifest.json`. Optional per-level `"startAt": 12` skips an intro (seconds). Tier buttons show how many levels have audio (e.g. `#1–30 · 4/30`); only those are played, but the dropdown always lists all 150.
 After the first successful sync, open `data/levels.json` and find the level's Pointercrate `id`. Add an entry using that ID to `data/manifest.json`:
 ```json
 {
