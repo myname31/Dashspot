@@ -1,0 +1,902 @@
+{
+ "250": {
+  "_name": "Tartarus",
+  "_rank": 127,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "274": {
+  "_name": "The Golden",
+  "_rank": 138,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "349": {
+  "_name": "Sonic Wave Infinity",
+  "_rank": 125,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "379": {
+  "_name": "Firework",
+  "_rank": 62,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "380": {
+  "_name": "Slaughterhouse",
+  "_rank": 42,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "383": {
+  "_name": "arcturus",
+  "_rank": 120,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "391": {
+  "_name": "Sakupen Circles",
+  "_rank": 51,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "393": {
+  "_name": "Verdant Landscape",
+  "_rank": 145,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "413": {
+  "_name": "Abyss of Darkness",
+  "_rank": 33,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "425": {
+  "_name": "Oblivion",
+  "_rank": 140,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "427": {
+  "_name": "The Hallucination",
+  "_rank": 78,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "428": {
+  "_name": "Silent clubstep",
+  "_rank": 18,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "429": {
+  "_name": "walter white",
+  "_rank": 100,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "439": {
+  "_name": "Mayhem",
+  "_rank": 97,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "442": {
+  "_name": "Acheron",
+  "_rank": 29,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "464": {
+  "_name": "poocubed",
+  "_rank": 73,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "467": {
+  "_name": "LIMBO",
+  "_rank": 93,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "468": {
+  "_name": "Kyouki",
+  "_rank": 35,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "469": {
+  "_name": "Sinister Silence",
+  "_rank": 111,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "475": {
+  "_name": "UNKNOWN",
+  "_rank": 149,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "485": {
+  "_name": "Edge of Destiny",
+  "_rank": 86,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "486": {
+  "_name": "Avernus",
+  "_rank": 27,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "487": {
+  "_name": "MINUSdry",
+  "_rank": 76,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "495": {
+  "_name": "Solar Flare",
+  "_rank": 91,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "496": {
+  "_name": "Saul Goodman",
+  "_rank": 81,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "497": {
+  "_name": "Terminal Rampancy",
+  "_rank": 144,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "501": {
+  "_name": "KOCMOC",
+  "_rank": 44,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "511": {
+  "_name": "Codependence",
+  "_rank": 94,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "516": {
+  "_name": "Deimos",
+  "_rank": 46,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "520": {
+  "_name": "Tunnel of Despair",
+  "_rank": 34,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "521": {
+  "_name": "Damascus",
+  "_rank": 104,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "525": {
+  "_name": "Delta",
+  "_rank": 130,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "526": {
+  "_name": "COMBUSTION",
+  "_rank": 80,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "528": {
+  "_name": "The Lightning Rod",
+  "_rank": 39,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "539": {
+  "_name": "NETWORK",
+  "_rank": 142,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "540": {
+  "_name": "Climax",
+  "_rank": 108,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "545": {
+  "_name": "Eyes in the Water",
+  "_rank": 57,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "547": {
+  "_name": "SARYYX NEVER CLEAR",
+  "_rank": 106,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "549": {
+  "_name": "Midnight",
+  "_rank": 114,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "551": {
+  "_name": "Belladonna",
+  "_rank": 96,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "555": {
+  "_name": "Jigsaw",
+  "_rank": 129,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "558": {
+  "_name": "Deadlier Clubstep",
+  "_rank": 77,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "562": {
+  "_name": "Tidal Wave",
+  "_rank": 7,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "568": {
+  "_name": "ATOMIC CANNON Mk III",
+  "_rank": 143,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "570": {
+  "_name": "PSYCHOPATH",
+  "_rank": 117,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "577": {
+  "_name": "Menace",
+  "_rank": 32,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "578": {
+  "_name": "Viprin UFO",
+  "_rank": 141,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "579": {
+  "_name": "ORDINARY",
+  "_rank": 109,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "582": {
+  "_name": "Checked Steam",
+  "_rank": 147,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "583": {
+  "_name": "Natural Disaster",
+  "_rank": 134,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "587": {
+  "_name": "KOSETSU",
+  "_rank": 66,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "588": {
+  "_name": "Coalescence",
+  "_rank": 113,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "589": {
+  "_name": "Nullscapes",
+  "_rank": 11,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "590": {
+  "_name": "The Yangire",
+  "_rank": 107,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "592": {
+  "_name": "Spectre",
+  "_rank": 31,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "594": {
+  "_name": "BOOBAWAMBA",
+  "_rank": 13,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "595": {
+  "_name": "Waterfall",
+  "_rank": 128,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "599": {
+  "_name": "BPATA MPAKA",
+  "_rank": 132,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "602": {
+  "_name": "Anathema",
+  "_rank": 24,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "605": {
+  "_name": "BEELINE",
+  "_rank": 123,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "606": {
+  "_name": "Collapse",
+  "_rank": 95,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "610": {
+  "_name": "The Plunge",
+  "_rank": 90,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "612": {
+  "_name": "Subterminal Point",
+  "_rank": 43,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "613": {
+  "_name": "andromeda",
+  "_rank": 21,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "614": {
+  "_name": "Apocalyptic Trilogy",
+  "_rank": 64,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "615": {
+  "_name": "Gaggatrondra",
+  "_rank": 84,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "620": {
+  "_name": "Every End",
+  "_rank": 15,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "622": {
+  "_name": "Cimmerian Shade",
+  "_rank": 116,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "623": {
+  "_name": "Amethyst",
+  "_rank": 5,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "627": {
+  "_name": "Operation Evolution",
+  "_rank": 103,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "630": {
+  "_name": "Sevvend Clubstep",
+  "_rank": 85,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "633": {
+  "_name": "THE JET ENGINE",
+  "_rank": 112,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "635": {
+  "_name": "Thinking Space II",
+  "_rank": 4,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "638": {
+  "_name": "Flamewall",
+  "_rank": 6,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "639": {
+  "_name": "Defeated Circles",
+  "_rank": 26,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "640": {
+  "_name": "CONVULSION",
+  "_rank": 58,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "642": {
+  "_name": "Loops of Fury",
+  "_rank": 71,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "648": {
+  "_name": "Silentlocked",
+  "_rank": 56,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "649": {
+  "_name": "Subsuming Vortex",
+  "_rank": 23,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "650": {
+  "_name": "Wavterminal",
+  "_rank": 99,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "652": {
+  "_name": "CHIL",
+  "_rank": 47,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "653": {
+  "_name": "Infinite Chaos",
+  "_rank": 101,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "655": {
+  "_name": "The Salt Factory",
+  "_rank": 53,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "658": {
+  "_name": "Snowbound",
+  "_rank": 59,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "659": {
+  "_name": "Decks Dark",
+  "_rank": 105,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "660": {
+  "_name": "Quanteuse processing",
+  "_rank": 12,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "662": {
+  "_name": "The Wonder of You",
+  "_rank": 135,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "663": {
+  "_name": "Through The Gates",
+  "_rank": 63,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "665": {
+  "_name": "Levigo",
+  "_rank": 146,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "667": {
+  "_name": "Voltage",
+  "_rank": 68,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "668": {
+  "_name": "Based After Based",
+  "_rank": 37,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "669": {
+  "_name": "Ashley Wave Trials",
+  "_rank": 16,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "670": {
+  "_name": "The Catacombs",
+  "_rank": 92,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "671": {
+  "_name": "ORBIT",
+  "_rank": 9,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "672": {
+  "_name": "CHROMACAVE",
+  "_rank": 98,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "673": {
+  "_name": "NOMAD",
+  "_rank": 69,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "674": {
+  "_name": "Stellar Night",
+  "_rank": 83,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "675": {
+  "_name": "Diabolic ClubStep",
+  "_rank": 122,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "676": {
+  "_name": "TrakineS",
+  "_rank": 118,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "677": {
+  "_name": "zorin",
+  "_rank": 48,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "678": {
+  "_name": "Dualist",
+  "_rank": 136,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "679": {
+  "_name": "BEING HOME",
+  "_rank": 45,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "680": {
+  "_name": "Penumbral",
+  "_rank": 20,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "681": {
+  "_name": "Fracture",
+  "_rank": 72,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "682": {
+  "_name": "DreamStep",
+  "_rank": 124,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "683": {
+  "_name": "Calibrate",
+  "_rank": 75,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "684": {
+  "_name": "BRITNEY NO SCLEARS",
+  "_rank": 82,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "687": {
+  "_name": "Trickshot",
+  "_rank": 131,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "690": {
+  "_name": "Between Duality",
+  "_rank": 119,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "695": {
+  "_name": "Master of Puppets",
+  "_rank": 54,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "696": {
+  "_name": "KILLSTEALER",
+  "_rank": 22,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "697": {
+  "_name": "Maniacal Chains",
+  "_rank": 40,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "698": {
+  "_name": "Society",
+  "_rank": 3,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "699": {
+  "_name": "Losing Your Mind",
+  "_rank": 87,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "700": {
+  "_name": "The Bloop",
+  "_rank": 14,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "701": {
+  "_name": "Doppler",
+  "_rank": 115,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "702": {
+  "_name": "Green Bullet",
+  "_rank": 8,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "704": {
+  "_name": "Ultra Paracosm",
+  "_rank": 19,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "705": {
+  "_name": "NervHell",
+  "_rank": 70,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "706": {
+  "_name": "Sacrifice",
+  "_rank": 36,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "707": {
+  "_name": "Pinnacle of Life",
+  "_rank": 65,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "708": {
+  "_name": "Prismline",
+  "_rank": 49,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "709": {
+  "_name": "cognitohazard",
+  "_rank": 38,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "710": {
+  "_name": "Sanctity",
+  "_rank": 137,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "711": {
+  "_name": "Antarctic Lights",
+  "_rank": 10,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "712": {
+  "_name": "Make Paul Dance",
+  "_rank": 102,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "713": {
+  "_name": "Haunted Ship",
+  "_rank": 89,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "714": {
+  "_name": "SPIRIT OVERCLOCK",
+  "_rank": 150,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "715": {
+  "_name": "FOREST OF SPIKES",
+  "_rank": 28,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "716": {
+  "_name": "Heavenly Sakupen",
+  "_rank": 148,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "728": {
+  "_name": "GRIEF",
+  "_rank": 1,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "730": {
+  "_name": "Artemis 13",
+  "_rank": 2,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "731": {
+  "_name": "BASSLINE JUNKIE",
+  "_rank": 50,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "732": {
+  "_name": "Marks",
+  "_rank": 110,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "733": {
+  "_name": "Thinking Space II",
+  "_rank": 41,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "734": {
+  "_name": "ETERNALtheory",
+  "_rank": 88,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "735": {
+  "_name": "Blooming Blossoms",
+  "_rank": 79,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "736": {
+  "_name": "Old Orochi",
+  "_rank": 17,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "737": {
+  "_name": "Lost in Time 2",
+  "_rank": 55,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "738": {
+  "_name": "blight",
+  "_rank": 133,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "739": {
+  "_name": "Shadow Of The Past",
+  "_rank": 60,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "740": {
+  "_name": "ace",
+  "_rank": 61,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "741": {
+  "_name": "BLAZEIT",
+  "_rank": 67,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "742": {
+  "_name": "METROPOLIS",
+  "_rank": 30,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "743": {
+  "_name": "frame reframe",
+  "_rank": 139,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "744": {
+  "_name": "l o v e",
+  "_rank": 121,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "745": {
+  "_name": "Azure Flare",
+  "_rank": 25,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "746": {
+  "_name": "AMY",
+  "_rank": 52,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "747": {
+  "_name": "Abocto",
+  "_rank": 126,
+  "audioUrl": "",
+  "startAt": 0
+ },
+ "748": {
+  "_name": "Hazard Duty Pay",
+  "_rank": 74,
+  "audioUrl": "",
+  "startAt": 0
+ }
+}
