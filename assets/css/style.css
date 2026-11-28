@@ -58,3 +58,18 @@ aside,.game{background:linear-gradient(145deg,#172d56ed,#0c1732f2);border:1px so
 #skip[hidden]{display:none!important}.foot{justify-content:flex-start}.foot span{margin-left:auto}
 .audio:after{content:"DASHSPOT / AUDIO ENGINE";position:absolute;right:12px;top:12px;color:#6e8eae55;font:700 7px var(--font);letter-spacing:1.5px;pointer-events:none}
 @media(max-width:740px){.audio{min-height:292px}.vinyl-stage{height:160px}.vinyl-disc{width:132px;height:132px}.vinyl-orbit{width:158px;height:158px}.orbit-two{width:190px;height:190px}}
+
+/* v2: progressive clips, guess history, autocomplete */
+.bar{position:relative;overflow:hidden}.bar i{position:absolute;left:0;top:0}
+#unlocked{background:#35e8ff35!important;box-shadow:none!important;transition:width .3s}#progress{transition:none!important}
+.tries{display:grid;grid-template-columns:repeat(6,1fr);gap:5px;margin:14px 0 2px}
+.tries b{height:26px;border:1px solid #35e8ff30;border-radius:3px;background:#07132b;color:#6e8eae;font:700 9px/24px var(--font);overflow:hidden;white-space:nowrap;text-overflow:ellipsis;padding:0 5px}
+.tries b.cur{border-color:var(--cyan);color:var(--cyan)}.tries b.miss{border-color:#ff7d9960;color:#ff7d99}.tries b.skip{color:#9ab5d6;background:#ffffff0a}
+.controls .ghost{background:transparent;color:var(--cyan);border:1px solid #35e8ff70;box-shadow:none;min-width:96px}
+.controls .play:disabled{opacity:.35;box-shadow:none}
+#suggestions{right:0;top:calc(100% + 4px);box-shadow:0 14px 30px #000a}
+.suggestion{padding:10px 12px!important;cursor:pointer;font-size:13px}.suggestion small{color:#7d93b3;margin-left:8px;font-size:10px}
+.suggestion.active,.suggestion:hover{background:#35e8ff25!important}.suggestion.none{cursor:default;color:#8aa0bf!important}
+.tier.empty{opacity:.55}.tier small{white-space:nowrap}
+button:focus-visible,input:focus-visible{outline:2px solid var(--lime);outline-offset:2px}
+@media(max-width:740px){.tier small{font-size:7px}.tries b{font-size:8px;padding:0 3px}}
