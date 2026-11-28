@@ -94,6 +94,7 @@ try {
 
       const asset =
         manifest[String(x.id)] ||
+        manifest[String(x.level_id)] ||
         manifest[norm(x.name)] ||
         {};
 
